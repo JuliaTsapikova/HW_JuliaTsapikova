@@ -21,7 +21,7 @@ d = {'key1': 'value1', 'key2': 'value2'}
 print(dict([(y,x) for (x,y) in d.items()]))
 
 
-# Task_3. Duplikates
+# Task_3. Duplicates
 
 from itertools import groupby
 x = [1, 1, 2, 3, 5, 4, 5, 6]
